@@ -153,20 +153,11 @@ Measures campaign success in converting customer engagement into business outcom
 ## 6. Screenshots / Demo
 
 ### Dashboard Overview
+![IMAGE ALT](https://github.com/anjali020/Marketing-Campaign-Performance-Analysis/blob/6bc11bb9ee6109897735d437ad1ba8d2cf899c3f/DASHBOARD%20DEMO.png)
 
-(Add Power BI Dashboard Screenshot Here)
 
-### Campaign Performance Analysis
 
-(Add Screenshot Here)
 
-### Regional Performance Analysis
-
-(Add Screenshot Here)
-
-### ROI & Conversion Analysis
-
-(Add Screenshot Here)
 
 ---
 
